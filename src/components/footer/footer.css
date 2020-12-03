@@ -1,0 +1,10 @@
+/*estilos del Footer*/
+footer{
+    background: var(--Text-color);
+    height: 60px;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.logoF{
+    opacity: 0.8;
+}

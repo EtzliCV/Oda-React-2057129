@@ -1,0 +1,20 @@
+/*estilos de "Contáctenos"*/
+.form{
+    width: 40%;
+    text-align: end;
+}
+.boton4{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background: none;
+    border: white .7px solid;
+    border-radius: 50px;
+    transition: all 0.5s;
+}
+@media (min-width: 300px) and (max-width: 799px) {
+    .form{
+        width: 90%;
+        text-align: center;
+    }
+}

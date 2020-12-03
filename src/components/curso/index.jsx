@@ -70,7 +70,7 @@ function Curso() {
                                 /></a>
                         </div>
                     </li>
-                    <li className="mx-4">
+                    <li className="mx-2">
                         <div>
                             <a href="./Generos/Commercial/index.html"
                             ><img src={commercial} width="150"
@@ -81,8 +81,7 @@ function Curso() {
                 <button
                     type="button"
                     class="btn btn-primary btn-lg px-4 my-2 boton2"
-                    href="https://app-vlc.hotmart.com/signup"
-                >
+                    href="https://app-vlc.hotmart.com/signup">
                     Conoce más
         </button>
             </div>

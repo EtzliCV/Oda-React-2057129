@@ -1,0 +1,37 @@
+/*estilos de parte "Hotmart"*/
+.container3{
+    display: flex;
+    align-items: flex-end;
+    text-align: left;
+}
+.BtnHM{
+    margin-bottom: 20px;
+}
+@media (min-width:  300px) and (max-width: 1099px){
+    .container3{
+        flex-flow: column-reverse;
+        text-align: center;
+    }
+    .textoH{
+        background: linear-gradient(0deg, rgba(129,174,229,1) 10%, rgba(118,166,230,1) 93%);
+        color: white;
+        display: space ;
+        text-align: center;
+        padding: 0px 60px 25px;
+        align-self: flex-end;
+        justify-content: center;
+    }
+    .photoH{
+        width: 100%;
+    }
+    .BtnHM{
+        margin-bottom: 10px;
+    }
+}
+@media (min-width: 1100px){
+    .textoH{
+        background: linear-gradient(0deg, rgba(129,174,229,1) 10%, rgba(118,166,230,1) 93%);
+        height: 295.2px;
+        padding: 0 60px;
+    }
+}

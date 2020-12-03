@@ -3,6 +3,9 @@ import Home2 from "./components/home2";
 import Curso from "./components/curso";
 import Somos from "./components/somos";
 import Descubre from "./components/descubre";
+import Hotmart from "./components/hotmart";
+import Contacto from "./components/contacto";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
     <Curso />
     <Somos />
     <Descubre />
+    <Hotmart />
+    <Contacto />
+    <Footer />
     </>
   );
 }
