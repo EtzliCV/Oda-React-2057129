@@ -1,0 +1,25 @@
+/*estilos del Inicio*/
+.tituloH{
+    font-weight: bold;
+    line-height: 75px;
+    font-size: 80px;
+    opacity: 50%;
+   }
+
+@media (min-width: 771px) and (max-width: 1099px) {
+   .tituloH{
+        font-weight: bold;
+        line-height: 50px;
+        font-size: 55px;
+        opacity: 50%;
+    }
+}
+
+@media (min-width:300px) and (max-width:770px) {
+    .tituloH{
+        font-weight: bold;
+        line-height: 10px;
+        font-size: 45px;
+        opacity: 50%;
+    }
+}
