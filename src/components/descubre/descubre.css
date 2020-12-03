@@ -1,0 +1,10 @@
+/*estilos de "Descubre"*/
+.fundadoras{
+    justify-content: space-evenly;
+}
+.nombre{
+    margin: 12px 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--Text-color);
+    }

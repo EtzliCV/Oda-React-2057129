@@ -1,0 +1,28 @@
+/*estilos de somos*/
+.container2{
+    display: flex;
+    align-items: center;
+    text-align: right;
+}
+@media (min-width:  300px) and (max-width: 1099px){
+    .container2{
+        flex-flow: row wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .img-fluid2{
+        width:58,1%;
+        vertical-align: middle;
+    }
+    .photoQS{
+        width: 100%;
+    }
+    .textoQS{
+        margin: 5px 60px;
+    }
+}
+@media (min-width: 1100px){
+    .textoQS{
+        margin-right: 70px;
+    }
+}
