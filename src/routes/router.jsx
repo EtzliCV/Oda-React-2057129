@@ -7,7 +7,7 @@ import Salsa from "../pages/salsa/salsa";
 
 function Router() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="Oda-React-2057129">
             <Switch>
                 <Route path="/" exact>
                     <Home />
