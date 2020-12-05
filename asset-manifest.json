@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.49d72093.chunk.css",
+    "main.js": "./static/js/main.92a3f80b.chunk.js",
+    "main.js.map": "./static/js/main.92a3f80b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d862dda9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d862dda9.js.map",
+    "static/js/2.41d43e27.chunk.js": "./static/js/2.41d43e27.chunk.js",
+    "static/js/2.41d43e27.chunk.js.map": "./static/js/2.41d43e27.chunk.js.map",
+    "static/js/3.c6bb8210.chunk.js": "./static/js/3.c6bb8210.chunk.js",
+    "static/js/3.c6bb8210.chunk.js.map": "./static/js/3.c6bb8210.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.49d72093.chunk.css.map": "./static/css/main.49d72093.chunk.css.map",
+    "static/js/2.41d43e27.chunk.js.LICENSE.txt": "./static/js/2.41d43e27.chunk.js.LICENSE.txt",
+    "static/media/3personas.877612f7.png": "./static/media/3personas.877612f7.png",
+    "static/media/afrodance.c553e069.png": "./static/media/afrodance.c553e069.png",
+    "static/media/bachata.0611b603.png": "./static/media/bachata.0611b603.png",
+    "static/media/chica.a84e99ed.png": "./static/media/chica.a84e99ed.png",
+    "static/media/commercial.90dd37a4.png": "./static/media/commercial.90dd37a4.png",
+    "static/media/dancehall.375f8516.png": "./static/media/dancehall.375f8516.png",
+    "static/media/esly.00e926bc.png": "./static/media/esly.00e926bc.png",
+    "static/media/higuita.eeb3c87f.png": "./static/media/higuita.eeb3c87f.png",
+    "static/media/hiphop.eb20c7b5.png": "./static/media/hiphop.eb20c7b5.png",
+    "static/media/hotmart.1bb0b49d.png": "./static/media/hotmart.1bb0b49d.png",
+    "static/media/jorge.a3b28684.png": "./static/media/jorge.a3b28684.png",
+    "static/media/merengue.d5fd6711.png": "./static/media/merengue.d5fd6711.png",
+    "static/media/natto.fe8592d2.png": "./static/media/natto.fe8592d2.png",
+    "static/media/reggaeton.94d8b5f8.png": "./static/media/reggaeton.94d8b5f8.png",
+    "static/media/salsa.98ca2d6f.png": "./static/media/salsa.98ca2d6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d862dda9.js",
+    "static/js/2.41d43e27.chunk.js",
+    "static/css/main.49d72093.chunk.css",
+    "static/js/main.92a3f80b.chunk.js"
+  ]
+}
