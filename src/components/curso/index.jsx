@@ -36,55 +36,54 @@ function Curso() {
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Merengue/index.html"
+                            <Link to="merengue"
                             ><img src={merengue} width="150"
-                                /></a>
+                                /></Link>
                         </div>
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Afrodance/index.html"
+                            <Link  to ="/afrodance"
                             ><img src={afrodance} width="150"
-                                /></a>
+                                /></Link >
                         </div>
                     </li>
                 </ul>
                 <ul className="iconos1 row">
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Hiphop/index.html"
+                            <Link to="hiphop"
                             ><img src={hiphop} width="150"
-                                /></a>
+                                /></Link>
                         </div>
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Reggaeton/index.html"
+                            <Link to="reggaeton"
                             ><img src={reggaeton} width="150"
-                                /></a>
+                                /></Link>
                         </div>
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Dancehall/index.html"
+                            <Link to="dancehall"
                             ><img src={dancehall} width="150"
-                                /></a>
+                                /></Link>
                         </div>
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Commercial/index.html"
+                            <Link to="commercial"
                             ><img src={commercial} width="150"
-                                /></a>
+                                /></Link>
                         </div>
                     </li>
                 </ul>
                 <button
-                    type="button"
-                    class="btn btn-primary btn-lg px-4 my-2 boton2"
-                    href="https://app-vlc.hotmart.com/signup">
-                    Conoce más
-        </button>
+                type="button"
+                className="btn btn-primary btn-lg px-4 my-2 boton">
+                Conoce más
+              </button>
             </div>
         </section>
 

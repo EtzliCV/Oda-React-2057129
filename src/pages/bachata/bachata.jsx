@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+
 import "./bachata.css"
 import LogoBachata from "../../assets/img/logo.png";
 
