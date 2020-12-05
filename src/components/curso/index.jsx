@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 import "./curso.css";
 import salsa from "../../assets/img/salsa.png";
 import bachata from "../../assets/img/bachata.png";
@@ -21,15 +23,14 @@ function Curso() {
                 <ul className="iconos1 row">
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Salsa/index.html">
+                            <Link to ="salsa">
                                 <img src={salsa} width="150"/>
-                                </a>
+                                </Link>
                         </div>
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href="./Generos/Bachata/index.html"
-                            ><img src={bachata} width="150"
+                            <a href=""><img src={bachata} width="150"
                                 /></a>
                         </div>
                     </li>

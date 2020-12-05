@@ -2,13 +2,14 @@
     outline: 0 !important;
 }
 
-body:before {
+
+.fondo {
   content: "";
   width: 100%;
   min-height: 100vh;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 0px;
   background: linear-gradient(-90deg, #994bb3, #587ff5);
   opacity: 0.75;
 }
