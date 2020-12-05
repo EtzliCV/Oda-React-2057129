@@ -30,8 +30,8 @@ function Curso() {
                     </li>
                     <li className="mx-4">
                         <div>
-                            <a href=""><img src={bachata} width="150"
-                                /></a>
+                            <Link to ="bachata"><img src={bachata} width="150"
+                                /></Link>
                         </div>
                     </li>
                     <li className="mx-4">
@@ -50,28 +50,28 @@ function Curso() {
                     </li>
                 </ul>
                 <ul className="iconos1 row">
-                    <li className="mx-2">
+                    <li className="mx-4">
                         <div>
                             <a href="./Generos/Hiphop/index.html"
                             ><img src={hiphop} width="150"
                                 /></a>
                         </div>
                     </li>
-                    <li className="mx-2">
+                    <li className="mx-4">
                         <div>
                             <a href="./Generos/Reggaeton/index.html"
                             ><img src={reggaeton} width="150"
                                 /></a>
                         </div>
                     </li>
-                    <li className="mx-2">
+                    <li className="mx-4">
                         <div>
                             <a href="./Generos/Dancehall/index.html"
                             ><img src={dancehall} width="150"
                                 /></a>
                         </div>
                     </li>
-                    <li className="mx-2">
+                    <li className="mx-4">
                         <div>
                             <a href="./Generos/Commercial/index.html"
                             ><img src={commercial} width="150"

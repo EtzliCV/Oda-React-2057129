@@ -2,7 +2,7 @@
     font-weight: bold;
     line-height: 75px;
     font-size: 80px;
-    opacity: 50%;
+    opacity: 60%;
    }
 
 @media (min-width: 771px) and (max-width: 1099px){
@@ -10,7 +10,7 @@
         font-weight: bold;
         line-height: 50px;
         font-size: 55px;
-        opacity: 50%;
+        opacity: 60%;
     }
 }
 @media (min-width: 300px) and (max-width: 770px) {
@@ -18,7 +18,7 @@
         font-weight: bold;
         line-height: 40px;
         font-size: 45px;
-        opacity: 50%;
+        opacity: 60%;
     }
     .textoHome{
         text-align: center;

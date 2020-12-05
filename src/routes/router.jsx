@@ -2,6 +2,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import Home from "../pages/home";
 import Salsa from "../pages/salsa/salsa";
+import Bachata from "../pages/bachata";
 
 
 
@@ -14,6 +15,9 @@ function Router() {
                 </Route>
                 <Route path="/salsa" exact>
                     <Salsa />
+                </Route>
+                <Route path="/bachata" exact>
+                    <Bachata />
                 </Route>
             </Switch>
         </BrowserRouter>
