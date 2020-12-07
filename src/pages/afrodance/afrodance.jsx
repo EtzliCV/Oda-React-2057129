@@ -14,7 +14,11 @@ function Afrodance() {
           <article className="text-white text-center">
             <h2 className="tituloW">AfroDance</h2>
             <p className="py-3">
-            Hace referencia principal a la danza Surafricana, danza del sur de Sahara y numerosos tipos de danzas africanas. Producto de las numerosas diferencias culturales en los estilos musicales y de movimiento. Producto de la unión de estas culturas más la influencia occidental.
+              Hace referencia principal a la danza Surafricana, danza del sur de
+              Sahara y numerosos tipos de danzas africanas. Producto de las
+              numerosas diferencias culturales en los estilos musicales y de
+              movimiento. Producto de la unión de estas culturas más la
+              influencia occidental.
             </p>
             <a href="https://app-vlc.hotmart.com/signup">
               <button

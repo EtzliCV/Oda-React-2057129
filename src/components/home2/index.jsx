@@ -1,9 +1,6 @@
 import "./home2.css";
 import chica from "../../assets/img/chica.png";
 
-
-
-
 function Home2() {
   return (
     <section className="BGgradient py-3">
@@ -14,9 +11,11 @@ function Home2() {
             movimiento <br />
             de vida
           </h1>
-          <button type="button" className="btn btn-outline-light mt-3 botonW">
-            Aprende aquí
-          </button>
+          <a href="https://app-vlc.hotmart.com/signup">
+            <button type="button" className="btn btn-outline-light mt-3 botonW">
+              Aprende aquí
+            </button>
+          </a>
         </aside>
         <aside className="col-lg-5 col-md-6 col-sm-12">
           <div>

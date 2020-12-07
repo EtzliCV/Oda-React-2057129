@@ -1,14 +1,12 @@
-import "./descubre.css"
+import "./descubre.css";
 import higuita from "../../assets/img/higuita.png";
 import natalia from "../../assets/img/natto.png";
 import jorge from "../../assets/img/jorge.png";
 import esly from "../../assets/img/esly.png";
 
-
-
 function Descubre() {
-    return(
-        <section className="descubre py-4">
+  return (
+    <section className="descubre py-4">
       <div className="container text-center">
         <h4 className="tituloA">Descubre</h4>
         <p className="textoA">Las personas que están detrás del equipo ODA.</p>
@@ -40,10 +38,7 @@ function Descubre() {
         </ul>
       </div>
     </section>
-
-
-    );
-    
+  );
 }
 
 export default Descubre;
