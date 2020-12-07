@@ -1,4 +1,4 @@
-import "./home.css";
+
 import logo from "../../assets/img/logo.png";
 import icon from "../../assets/img/menu2.png";
 
