@@ -1,4 +1,4 @@
-import "./home2.css"
+
 import chica from "../../assets/img/chica.png";
 
 function Home2() {
