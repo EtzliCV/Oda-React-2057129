@@ -1,5 +1,5 @@
 .tituloH{
-    font-weight: bold;
+    font-weight: 700px;
     line-height: 75px;
     font-size: 80px;
     opacity: 60%;
@@ -8,7 +8,7 @@
 
 @media (min-width: 300px) and (max-width: 770px) {
     .tituloH{
-        font-weight: bold;
+        font-weight: 700px;
         line-height: 40px;
         font-size: 45px;
         opacity: 60%;
