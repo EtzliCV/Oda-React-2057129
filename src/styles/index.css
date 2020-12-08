@@ -21,7 +21,7 @@ body {
     opacity: 60%;
 }
 
-@media (min-width: 300px) and (max-width: 770px){
+@media (min-width: 300px) and (max-width:770px){
     .tituloH{
         font-weight: bold;
         line-height: 40px;
@@ -33,6 +33,7 @@ body {
         text-align: center;
     }
 }
+
 .tituloW{
     font-weight: bold;
     font-size: 45px;
