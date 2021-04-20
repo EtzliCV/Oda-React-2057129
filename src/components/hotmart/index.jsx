@@ -9,9 +9,7 @@ function Hotmart() {
         <div className="textoH d-flex flex-wrap">
           <h4 className="mt-4 tituloW">Hotmart</h4>
           <p>
-            Es la plataforma de aprendizaje a distancia más grande y completa de
-            América Latina. Allí encontrarás nuestro curso y todas las
-            estrategias del equipo de ODA en enseñanza de baile.
+            
           </p>
           <a href="https://app-vlc.hotmart.com/signup">
             <button
